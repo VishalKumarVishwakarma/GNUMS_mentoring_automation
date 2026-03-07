@@ -225,7 +225,7 @@ This script can be adapted for any similar automation:
 ## 📄 License
 
 This project is for educational and institutional use only.
-The script is designed specifically for authorized users of the Parul University UMS portal.
+The script is designed specifically for authorized users of the  University UMS portal.
 
 ---
 
