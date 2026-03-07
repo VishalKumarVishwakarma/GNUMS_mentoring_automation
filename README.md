@@ -211,10 +211,6 @@ QUESTION_GROUP = "Group-1 - PIET-1"  # Change if needed
 
 This script can be adapted for any similar automation:
 - **University portals** — bulk form submissions
-- **HR systems** — employee data entry automation
-- **CRM tools** — contact form filling
-- **Government portals** — bulk application submission
-- **E-commerce** — product listing automation
 
 ---
 
