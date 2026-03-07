@@ -1,4 +1,4 @@
-# 🎓 Parul University — Student Mentoring Meeting Automation
+# 🎓 University — Student Mentoring Meeting Automation
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?style=for-the-badge&logo=python)
 ![Selenium](https://img.shields.io/badge/Selenium-4.x-green?style=for-the-badge&logo=selenium)
