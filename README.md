@@ -213,6 +213,22 @@ This script can be adapted for any similar automation:
 - **University portals** — bulk form submissions
 
 ---
+## ☕ Buy Me a Coffee
+
+If this launcher saved you from logging into Google for the 100th time, consider fueling the next update.
+
+<div align="center">
+
+[![PayPal](https://img.shields.io/badge/PayPal-Donate_$5-00457C?logo=paypal&logoColor=white&style=for-the-badge)](https://paypal.me/vishalvishwakarma984/5USD)
+
+**☕ [Support with $5 via PayPal →](https://paypal.me/vishalvishwakarma984/5USD)** &nbsp;•&nbsp; `paypal.me/vishalvishwakarma984`
+
+*Every coffee keeps the code caffeinated.* 💛
+
+</div>
+
+
+---
 
 ## 👨‍💻 Author
 
